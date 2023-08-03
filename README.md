@@ -8,7 +8,7 @@ I'm using this page to act as a portfolio of mine on game prototypes that i have
 - [P01 - CTFDash](#p01-ctfdash)
 - [P02 - Enviroment Prototype](#p02-enviroment-prototype)
 - [P03 - Pathfinding Prototype](#p03-pathfinding-prototype)  
-
+- [About Me](#about-me)
 # {P01} CTFDash
 ..
 
@@ -225,7 +225,15 @@ I'm using this page to act as a portfolio of mine on game prototypes that i have
 .
 .
 
+# About Me
+..
 
+.
+.
+.
+.
+
+.
 
 
 
