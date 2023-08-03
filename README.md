@@ -1,6 +1,6 @@
 # Hello ! :space_invader::robot:
 
-##I'm a Game Programmer with experience in Unity and Unreal.
+### I'm a Game Programmer with experience in Unity and Unreal.
 I have a Bachelor in Computer Science, i studied both programming and cyber security during my time in Uni.
 ---
 afgafgsfdg  
