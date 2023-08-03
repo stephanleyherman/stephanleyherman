@@ -20,7 +20,7 @@ I'm using this page to act as a portfolio of mine on game prototypes that i have
 .
 .
 .
- <p align = "right"> <a href="#p03-pathfinding-prototype">link text</a></p>  
+ <p align = "right"> <a href="#p03-pathfinding-prototype"> Back to Top </a></p>  
 .      
 .      
 .      
