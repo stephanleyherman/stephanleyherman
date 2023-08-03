@@ -12,7 +12,7 @@ Feel free to jump to any of the section i've made :
 >- [About Me](#about-me)
 
 > [!NOTE]
-> I'll also have the downloadable version of my prototypes below.
+> The downloadable version of my prototypes is available below !
 
 
 # {P01} CTFDash
