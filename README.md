@@ -5,6 +5,7 @@
 ---
 I'm using this page to act as a portfolio of mine on game prototypes that i have made, to make this portfolio clear and concise i would only include some prototypes that i think is worth mentioning and explained. At the end of the page i would put in more statistics and background on how i got here and how game design became my passion.
 
+Feel free to jump to any of the section i've made :   
 >- [P01 - CTFDash](#p01-ctfdash)
 >- [P02 - Enviroment Prototype](#p02-enviroment-prototype)
 >- [P03 - Pathfinding Prototype](#p03-pathfinding-prototype)  
@@ -20,7 +21,7 @@ I'm using this page to act as a portfolio of mine on game prototypes that i have
 .
 .
 .
- <p align = "right"> <a href="#p03-pathfinding-prototype"> Back to Top </a></p>  
+
 .      
 .      
 .      
@@ -223,7 +224,7 @@ I'm using this page to act as a portfolio of mine on game prototypes that i have
 .
 .
 .
-.
+ <p align = "right"> <a href="#hello"> Back to Top </a></p>  
 
 # About Me
 ..
