@@ -11,7 +11,7 @@ Feel free to jump to any of the section i've made :
 >- [P03 - Pathfinding Prototype](#p03-pathfinding-prototype)  
 >- [About Me](#about-me)
 # {P01} CTFDash
-![alt text]([http://url/to/img.png](https://ibb.co/T1pFJ34))
+![alt text](https://ibb.co/T1pFJ34)
 
 .
 .
