@@ -20,7 +20,7 @@ I'm using this page to act as a portfolio of mine on game prototypes that i have
 .
 .
 .
-<a href="url"  align="right">link text</a>    
+<a href="#p03-pathfinding-prototype"  align="right">link text</a>    
 .      
 .      
 .      
