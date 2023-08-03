@@ -16,8 +16,7 @@ Feel free to jump to any of the section i've made :
 ![alt text](https://github.com/stephanleyherman/imagedumprepo/blob/main/p01-i1.png)
 > [!NOTE]
 > The Main Menu of CTFDash            
-.
-.
+                      
 .
 .
 
