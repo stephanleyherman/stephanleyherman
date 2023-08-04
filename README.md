@@ -22,7 +22,13 @@ Feel free to jump to any of the section i've made :
 <details>
 <summary>General Outline </summary>
 
+  ![alt text](https://github.com/stephanleyherman/imagedumprepo/blob/main/p01-i1.png)
 
+
+
+
+
+                                                                              
   
 </details>
 
