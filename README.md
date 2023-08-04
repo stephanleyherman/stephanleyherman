@@ -19,9 +19,11 @@ Feel free to jump to any of the section i've made :
 ![alt text](https://github.com/stephanleyherman/imagedumprepo/blob/main/p01-i1.png)
 > The Main Menu of CTFDash           
                       
-.
-.
-
+<details>
+<summary>How do I dropdown?</summary>
+<br>
+This is how you dropdown.
+</details>
 .
 .
 .
