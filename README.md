@@ -20,9 +20,31 @@ Feel free to jump to any of the section i've made :
 > The Main Menu of CTFDash           
                       
 <details>
-<summary>How do I dropdown?</summary>
+<summary>## How do I dropdown?</summary>
 <br>
 This is how you dropdown.
+  cool
+  cool
+  cool
+  
+</details>
+
+<summary>## General Outline/summary>
+<br>
+This is how you dropdown.
+  cool
+  cool
+  cool
+  
+</details>
+
+<summary>## More Details/summary>
+<br>
+This is how you dropdown.
+  cool
+  cool
+  cool
+  
 </details>
 .
 .
