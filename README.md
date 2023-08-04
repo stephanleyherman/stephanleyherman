@@ -29,7 +29,7 @@ This is how you dropdown.
   
 </details>
 
-<summary>General Outline/summary>
+<summary>General Outline </summary>
 <br>
 This is how you dropdown.
   cool
@@ -38,7 +38,7 @@ This is how you dropdown.
   
 </details>
 
-<summary>More Details/summary>
+<summary>More Details </summary>
 <br>
 This is how you dropdown.
   cool
