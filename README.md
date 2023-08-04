@@ -40,213 +40,60 @@ Feel free to jump to any of the section i've made :
   
 </details>
 
+ <p align = "right"> <a href="#hello--space_invaderrobot"> Back to Top </a></p>  
 
-.
-.
-.
-
-.      
-.      
-.      
-.      
-.      
-.      
-.      
-.      
-.      
-.      
-.      
-.      
-.      
-.      
-.      
-.      
-.      
-.      
-.      
-.      
-.      
-.      
-.      
-.      
-.      
-.      
-.      
-.      
-.      
-.      
-.      
-.      
-.      
-.      
-.      
-.      
-.      
-.      
-.      
-.      
-.      
-.      
-.      
-.      
-.      
-.      
-
-.      
-
-.
-.
-.
-.
-
-.
-.
-.
-.
-.
 
 # {P02} Enviroment Prototype
-..
+![alt text](https://github.com/stephanleyherman/imagedumprepo/blob/main/p01-i1.png)
+> The Main Menu       
+                      
+<details>
+<summary>General Outline </summary>
+      
+              
+  ![alt text](https://github.com/stephanleyherman/imagedumprepo/blob/main/p01-i1.png)
 
-.
-.
-.
-.
 
-.
-.
-.
-.
-.      
-.      
-.      
-.      
-.      
-.      
-.      
-.      
-.      
-.      
-.      
-.      
-.      
-.      
-.      
-.      
-.      
-.      
-.      
-.      
-.      
-.      
-.      
-.      
-.      
-.      
-.      
-.      
-.      
-.      
-.      
-.      
-.      
-.      
-.      
-.      
-.      
-.      
-.      
-.      
-.      
-.      
-.      
-.      
-.      
-.      
 
-.      
+---
+---
+                                                                              
+  
+</details>
 
-.
-.
-.
-.
+<details>
+<summary>More Details </summary>
 
-.
-.
-.
-.
-.
 
+  
+</details>
+
+ <p align = "right"> <a href="#hello--space_invaderrobot"> Back to Top </a></p>  
 # {P03} Pathfinding Prototype
-..
+![alt text](https://github.com/stephanleyherman/imagedumprepo/blob/main/p01-i1.png)
+> The Main Menu       
+                      
+<details>
+<summary>General Outline </summary>
+      
+              
+  ![alt text](https://github.com/stephanleyherman/imagedumprepo/blob/main/p01-i1.png)
 
-.
-.
-.
-.
 
-.
-.
-.
-.
-.      
-.      
-.      
-.      
-.      
-.      
-.      
-.      
-.      
-.      
-.      
-.      
-.      
-.      
-.      
-.      
-.      
-.      
-.      
-.      
-.      
-.      
-.      
-.      
-.      
-.      
-.      
-.      
-.      
-.      
-.      
-.      
-.      
-.      
-.      
-.      
-.      
-.      
-.      
-.      
-.      
-.      
-.      
-.      
-.      
-.      
 
-.      
+---
+---
+                                                                              
+  
+</details>
 
-.
-.
-.
-.
+<details>
+<summary>More Details </summary>
 
-.
-.
-.
-.
+
+  
+</details>
+
  <p align = "right"> <a href="#hello--space_invaderrobot"> Back to Top </a></p>  
 
 # About Me
@@ -257,7 +104,7 @@ Feel free to jump to any of the section i've made :
 .
 .
 
-.
+ <p align = "right"> <a href="#hello--space_invaderrobot"> Back to Top </a></p>  
 
 
 
