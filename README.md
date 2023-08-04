@@ -17,7 +17,7 @@ Feel free to jump to any of the section i've made :
 
 # {P01} CTFDash
 ![alt text](https://github.com/stephanleyherman/imagedumprepo/blob/main/p01-i1.png)
-> The Main Menu of CTFDash           
+> The Main Menu       
                       
 <details>
 <summary>General Outline </summary>
