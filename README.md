@@ -37,19 +37,8 @@ This is a Strategy&Time Management game where you solve competitive cyber securi
 ![alt text](https://github.com/stephanleyherman/imagedumprepo/blob/main/p01-i1.png)
 > The Main Menu       
                       
-<details>
-<summary>General Outline </summary>
-      
-              
-  ![alt text](https://github.com/stephanleyherman/imagedumprepo/blob/main/p01-i1.png)
-
-
-
----
----
-                                                                              
-  
-</details>
+## General Outline            
+Mynamejeff
 
 <details>
 <summary>More Details </summary>
