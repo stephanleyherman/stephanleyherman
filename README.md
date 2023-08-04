@@ -28,7 +28,7 @@ The whole idea of this game was to make something akin with DinerDash where inst
 <!-- Show table, laptop and the conveyor belt-->
 
                 
-## General Outline               
+## More Details             
 <details>
 <summary>Click to see more :</summary>
 
