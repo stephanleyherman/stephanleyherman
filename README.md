@@ -20,20 +20,8 @@ Feel free to jump to any of the section i've made :
 ![alt text](https://github.com/stephanleyherman/imagedumprepo/blob/main/p01-i1.png)
 > The Main Menu       
                       
-<details>
-<summary>General Outline </summary>
-      
-              
-  ![alt text](https://github.com/stephanleyherman/imagedumprepo/blob/main/p01-i1.png)
-
-
-
----
----
-                                                                              
-  
-</details>
-
+## General Outline               
+This is a Strategy&Time Management game where you solve competitive cyber security CTF questions within a given time limit. you control a character in a small map where you need to interact with key items to achieve your goal.
 <details>
 <summary>More Details </summary>
 
