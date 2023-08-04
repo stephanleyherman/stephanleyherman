@@ -27,6 +27,8 @@ This is a Strategy&Time Management game where you solve competitive cyber securi
 The whole idea of this game was to make something akin with DinerDash where instead of using Food and Tables as a main mechanics i use Laptops and Tables.
 <!-- Show table, laptop and the conveyor belt-->
 The conveyor belt will spawn Laptop which you need to put in the "Tables" to be able to operate and see the questions inside, for the purpose of this game i only made 4 categories(Cryptography, WebEx, OSINT, General Knowledge) but i also have put in the function to make custom questions and custom categories as well via a json savefile script.
+<!-- Select amount of questions -->
+The idea is that this game would be used as a gamification concept that connect the more common game mechanics with answering difficult CTF competition questions where they would choose the amount of questions that they're comfortable with and slowly go up doing more and more questions, in a limited amount of time.
                 
 ## More Details             
 <details>
