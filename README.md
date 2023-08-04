@@ -3,7 +3,7 @@
 #### I'm a Game Programmer with experience in Unity and Unreal.
 #### I have a Bachelor in Computer Science, i studied programming and cyber security during my time in the University.
 ---
-I'm using this page to act as a portfolio of mine on game prototypes that i have made, to make this portfolio clear and concise i would only include some prototypes that i think is worth mentioning and explained. At the end of the page i would put in more statistics and background on how i got here and how game design became my passion.
+I'm using this page to act as a portfolio of mine on game prototypes that i have made, to make this portfolio clear and concise i would only include some prototypes that i think is worth mentioning and explained. At the end of the page i would put in more statistics and background on how i got here and how game design became my passion. Each of the section will also have a General Outline part and the Dropdown More Details part where i explain more on the game engine side of things and how i made certain things in the prototype.
 
 Feel free to jump to any of the section i've made :   
 >- [P01 - CTFDash](#p01-ctfdash)
@@ -23,8 +23,9 @@ Feel free to jump to any of the section i've made :
 ## General Outline               
 This is a Strategy&Time Management game where you solve competitive cyber security CTF questions within a given time limit. you control a character in a small map where you need to interact with key items to achieve your goal.
 <!-- Diner Dash Image Here -->
-The whole idea of this game was to make something akin with DinerDash where instead of using food and tables as a main mechanics i use Laptops and Tables.
+The whole idea of this game was to make something akin with DinerDash where instead of using Food and Tables as a main mechanics i use Laptops and Tables.
 <!-- Show table, laptop and the conveyor belt-->
+
 
 <details>
 <summary>More Details </summary>
