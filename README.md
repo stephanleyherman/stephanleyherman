@@ -22,6 +22,10 @@ Feel free to jump to any of the section i've made :
                       
 ## General Outline               
 This is a Strategy&Time Management game where you solve competitive cyber security CTF questions within a given time limit. you control a character in a small map where you need to interact with key items to achieve your goal.
+<!-- Diner Dash Image Here -->
+The whole idea of this game was to make something akin with DinerDash where instead of using food and tables as a main mechanics i use Laptops and Tables.
+<!-- Show table, laptop and the conveyor belt-->
+
 <details>
 <summary>More Details </summary>
 
