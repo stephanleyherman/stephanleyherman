@@ -100,11 +100,11 @@ I made this game as a part of my thesis, it required me to have people test the 
 ---           
 
 # {P02} Enviroment Prototype
-![alt text](https://github.com/stephanleyherman/imagedumprepo/blob/main/p01-i1.png)
-> The Main Menu       
+![alt text](https://github.com/stephanleyherman/imagedumprepo/blob/main/p02-i1.png)          
+     
                       
 ## General Outline            
-Mynamejeff
+So the whole idea that i had for this one was a apocalyptic scenario where years has passed and people is underground. The assets that i used was bought i didn't make them myself but i did stitch the whole thing up myself and made the lightning from scratch.
 
 <details>
 <summary>More Details </summary>
