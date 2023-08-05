@@ -124,11 +124,24 @@ I also added some functionality to the project, i added movements, guns, and zom
 
 ## 2. {P02} - Zombie AIs
    
-   <!-- SO picture here -->
+   <!-- Zombie Stuff picture here -->
    ![alt text](https://github.com/stephanleyherman/imagedumprepo/blob/main/p02-i5.png)           
    I thought to myself at that time the project needed obstacles, so i made Zombie AIs with adjustable variables that i can tweak in the Editor, the zombies have different idle animations and different skins as well.           
    ![alt text](https://github.com/stephanleyherman/imagedumprepo/blob/main/p02-i6.png)        
    Learning from previous projects i made sure that this one has emphasis on the readibility in the Editor, i made sure that everything was packaged neatly and understandable just from a glance.         
+
+## 3. {P02} - Map Design and NavMesh
+   
+   <!-- Zombie Stuff picture here -->
+   ![alt text](https://github.com/stephanleyherman/imagedumprepo/blob/main/p02-i7.png)           
+   The zombies need to be able to chase me so i added a simple NavMesh, put in some tweaks into the enviroment like making sure they don't walk on the rubbles or suddenly spring up into a sofa or a tent. 
+
+## 4. {P02} - A rifle and a handgun because why not
+   
+   <!-- Zombie Stuff picture here -->
+   ![alt text](https://github.com/stephanleyherman/imagedumprepo/blob/main/p02-i8.png)           
+   I also needed a way to defend myself, the gun implementation for this project was one of the first thing that i made, i only made two guns but i did put in the architecture to make adding more guns easier. They also have adjustable variables to make tweaking the guns in the editor easier.
+
 
 <!-- !!ENVIROMENT PROTOTYPE MORE DETAILS SECTION HERE -->
   
