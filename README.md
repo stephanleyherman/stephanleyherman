@@ -107,9 +107,17 @@ I made this game as a part of my thesis, it required me to have people test the 
 So the whole idea that i had for this one was a apocalyptic scenario where years has passed and people is forced to live underground. The assets that i used was bought i didn't make them myself but i did stitch the whole thing up myself and made the lightning from scratch.
 
 ![alt text](https://github.com/stephanleyherman/imagedumprepo/blob/main/p02-i2.png)      
-I wanted to test out my level design skill by making a map that somewhat make sense, where a player would tranverse an abandoned section of the underground, i put things where i thought it would make sense and tell a story of what went down and put the appropriate zombie with the right outfit there.
+I wanted to test out my level design skill by making a map, where the player would tranverse an abandoned section of the underground, i put things where i thought it would make sense and tell a story of what went down and put the appropriate zombie with the right outfit there.
+
+![alt text](https://github.com/stephanleyherman/imagedumprepo/blob/main/p02-i3.png)      
+
+
+
+
+
+
 <details>
-<summary>More Details </summary>
+<summary>Click to see more :</summary>
 
 
   
@@ -139,7 +147,7 @@ I wanted to test out my level design skill by making a map that somewhat make se
 </details>
 
 <details>
-<summary>More Details </summary>
+<summary>Click to see more :</summary>
 
 
   
