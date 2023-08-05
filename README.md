@@ -143,7 +143,7 @@ I also added some functionality to the project, i added movements, guns, and zom
    I also needed a way to defend myself, the gun implementation for this project was one of the first thing that i made, i only made two guns but i did put in the architecture to make adding more guns easier. They also have adjustable variables to make tweaking the guns in the editor easier.
 
 
-<!-- !!ENVIROMENT PROTOTYPE MORE DETAILS SECTION HERE -->
+<!-- !!enviroment PROTOTYPE MORE DETAILS SECTION HERE -->
   
 </details>
 
