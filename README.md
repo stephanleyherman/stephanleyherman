@@ -8,7 +8,7 @@ Each of the section will also have a General Outline part and the More Details p
 
 Feel free to jump to any of the section i've made :   
 >- [P01 - CTFDash](#p01-ctfdash)
->- [P02 - Enviroment Prototype](#p02-enviroment-prototype)
+>- [P02 - Environment Prototype](#p02-enviroment-prototype)
 >- [P03 - Pathfinding Prototype](#p03-pathfinding-prototype)  
 >- [About Me](#about-me)
 
@@ -99,7 +99,7 @@ I made this game as a part of my thesis, it required me to have people test the 
 
 ---           
 
-# {P02} Enviroment Prototype
+# {P02} Environment Prototype
 ![alt text](https://github.com/stephanleyherman/imagedumprepo/blob/main/p02-i1.png)          
      
                       
