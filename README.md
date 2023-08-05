@@ -51,17 +51,25 @@ I made this game as a part of my thesis, it required me to have people test the 
 <details>
 <summary>Click to see more :</summary>
 
-## 1. {PO1} - Scriptable Object and Savefile System
-   dgadfgasdfg
+## 1. {P01} - Scriptable Object and Savefile System
+   
+   <!-- -->
+   
    adfgadfgsdfg
    adfgasdfgsdfg
    
-## 2. {PO1} - Interactable Laptop
+## 2. {P01} - Interactable Laptop
+ 
+   <!-- -->
+   
   sghsfghdsghd
   sghdsgfhdghs
   srthsfghsfgh
 
-## 3. {PO1} - End of the game Review Manager
+## 3. {P01} - End of the game Review Manager
+ 
+   <!-- -->
+   
   adfhsfghdfghsg
   sfghdghdsghdg
   sghsfghfgh
