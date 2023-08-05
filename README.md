@@ -64,16 +64,30 @@ I made this game as a part of my thesis, it required me to have people test the 
    
 ## 3. {P01} - Interactable Laptop
  
-   <!-- -->
+   <!-- Table here -->
+<table>
+  <tr>
+    <td> <img src="(https://github.com/stephanleyherman/imagedumprepo/blob/main/p01-i5.png)"  alt="1" width = 360px height = 640px ></td>
+    <td><img src="https://github.com/stephanleyherman/imagedumprepo/blob/main/p01-i5.png" alt="2" width = 360px height = 640px></td>
+   </tr> 
+   <tr>
+      <td><img src="https://github.com/stephanleyherman/imagedumprepo/blob/main/p01-i5.png" alt="3" width = 360px height = 640px></td>
+      <td><img src="https://github.com/stephanleyherman/imagedumprepo/blob/main/p01-i5.png" align="right" alt="4" width = 360px height = 640px>
+  </td>
+  </tr>
+</table>
    
+   <!-- !Table here-->
+   I wanted to make picking up the laptop feels nice, so i added a few keybinds to let you interact with it differently, as an example a closed laptop cannot be grabbed so you need to open/close it by pressing F, if you have a laptop on you then you can't pick up another one until you put it down by pressing G for picking up/putting down laptops, you cannot open into the question screen of the laptop if the laptop screen is closed. the idea was to use these keys so the player would be more engaged.
   sghsfghdsghd
   sghdsgfhdghs
   srthsfghsfgh
 
 ## 4. {P01} - End of the game Review Manager
  
-   <!-- -->
-   
+   <!-- Endgame Screen -->
+   Also using the singleton that i implemented whenever the game finishes either by the player running out of time or by finishing all the questions they selected, another scene would be put up as the endgame screen. Here they can put their names in the local leaderboard or choose to review the questions that they have missed or failed.
+  <!-- Review Image-->
   adfhsfghdfghsg
   sfghdghdsghdg
   sghsfghfgh
