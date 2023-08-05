@@ -51,6 +51,12 @@ I made this game as a part of my thesis, it required me to have people test the 
 <details>
 <summary>Click to see more :</summary>
 
+  
+
+
+
+
+
 
   
 </details>
