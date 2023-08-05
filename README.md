@@ -110,11 +110,9 @@ So the whole idea that i had for this one was a apocalyptic scenario where years
 I wanted to test out my level design skill by making a map, where the player would tranverse an abandoned section of the underground, i put things where i thought it would make sense and tell a story of what went down and put the appropriate zombie with the right outfit there.
 
 ![alt text](https://github.com/stephanleyherman/imagedumprepo/blob/main/p02-i3.png)      
+I also added some functionality to the project, i added movements, guns, and zombie AIs because maybe someday i wanna return to this and develop it some more because this is one of the most fun project i had made.
 
-
-
-
-
+![alt text](https://github.com/stephanleyherman/imagedumprepo/blob/main/p02-i3.png)      
 
 <details>
 <summary>Click to see more :</summary>
