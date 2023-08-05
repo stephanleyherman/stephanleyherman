@@ -163,8 +163,11 @@ I also added some functionality to the project, i added movements, guns, and zom
 
   ![alt text](https://github.com/stephanleyherman/imagedumprepo/blob/main/p03-i2.png)    
 
-  There's two castle, the one below is yours while the one on the right is the enemy's castle, you can put turret anywhere on the coordinates that is colored yellow, the one that is grey/white is unplaceable and is unwalkable as well. You can turn off/on debug mode to show the coordinates and it's respective color, when you're playing normally the coordinates is not suppose to be shown this is just to help see the pathfinding algorithm at works. the trees on the edges is put there to signify where you can and cannot put turrets.
-                      
+  There's two castle, the one below is yours while the one on the right is the enemy's castle, you can put turret anywhere on the coordinates that is colored yellow, the one that is grey/white is unplaceable and is unwalkable as well. You can turn off/on debug mode by pressing C to show the coordinates and it's respective color, when you're playing normally the coordinates is not suppose to be shown this is just to help see the pathfinding algorithm at works. the trees on the edges is put there to signify where you can and cannot put turrets.
+
+  ![alt text](https://github.com/stephanleyherman/imagedumprepo/blob/main/p03-i3.png)   
+
+  This project used the Breadth-first search algorithm to define a path for the enemy minions to walk on, it changes dynamically so if i put a turret in their way the minions would adjust their movement accordingly/smoothly as well. It also has an edge case on dealing with what if there's no path ? and the minions cannot reach our turret, the edge case is a try-catch esque conditional that will run the clicked tile to see if there will still be a path or no and return a boolean that will determine the action taken.
 
 
 
