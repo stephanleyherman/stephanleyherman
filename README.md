@@ -157,7 +157,7 @@ I also added some functionality to the project, i added movements, guns, and zom
                 
 ## General Outline            
 
-  So for this project i thought i would just explain everything in general outline since it's not as long as the others.              
+  So for this project i will just explain everything in general outline since it's not as long as the others.              
   This project is small, it's just to show the concept of pathfinding in a tower defense game.      
   For this one i followed a tutorial, the idea wasn't mine but this is one of the project that took me the longest and teaches me alot so i thought it's worth mentioning.
 
