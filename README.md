@@ -56,7 +56,16 @@ I made this game as a part of my thesis, it required me to have people test the 
    adfgadfgsdfg
    adfgasdfgsdfg
    
+## 2. {PO1} - Interactable Laptop
+  sghsfghdsghd
+  sghdsgfhdghs
+  srthsfghsfgh
 
+## 3. {PO1} - End of the game Review Manager
+  adfhsfghdfghsg
+  sfghdghdsghdg
+  sghsfghfgh
+  
 
 
 
