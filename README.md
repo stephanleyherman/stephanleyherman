@@ -126,7 +126,7 @@ I also added some functionality to the project, i added movements, guns, and zom
    
    <!-- SO picture here -->
    ![alt text](https://github.com/stephanleyherman/imagedumprepo/blob/main/p02-i5.png)           
-   I thought to myself at that time that the project needed obstacles, so i made Zombie AIs with adjustable variables that i can tweak in the Editor, the zombies have different idle animations and different skins as well.           
+   I thought to myself at that time the project needed obstacles, so i made Zombie AIs with adjustable variables that i can tweak in the Editor, the zombies have different idle animations and different skins as well.           
    ![alt text](https://github.com/stephanleyherman/imagedumprepo/blob/main/p02-i6.png)        
    Learning from previous projects i made sure that this one has emphasis on the readibility in the Editor, i made sure that everything was packaged neatly and understandable just from a glance.         
 
