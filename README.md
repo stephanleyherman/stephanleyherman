@@ -152,30 +152,21 @@ I also added some functionality to the project, i added movements, guns, and zom
  ---                
  
 # {P03} Pathfinding Prototype        
-        
-![alt text](https://github.com/stephanleyherman/imagedumprepo/blob/main/p01-i1.png)
-> The Main Menu       
+            
+![alt text](https://github.com/stephanleyherman/imagedumprepo/blob/main/p03-i1.png)            
+                
+## General Outline            
+
+  So for this project i thought i would just explain everything in general outline since it's not as long as the others.              
+  This project is small, it's just to show the concept of pathfinding in a tower defense game.      
+  For this one i followed a tutorial, the idea wasn't mine but this is one of the project that took me the longest and teaches me alot so i thought it's worth mentioning.
+
+  ![alt text](https://github.com/stephanleyherman/imagedumprepo/blob/main/p03-i2.png)    
+
+  There's two castle, the one below is yours while the one on the right is the enemy's castle, you can put turret anywhere on the coordinates that is colored yellow, the one that is grey/white is unplaceable and is unwalkable as well. You can turn off/on debug mode to show the coordinates and it's respective color, when you're playing normally the coordinates is not suppose to be shown this is just to help see the pathfinding algorithm at works. the trees on the edges is put there to signify where you can and cannot put turrets.
                       
-<details>
-<summary>General Outline </summary>
-      
-              
-  ![alt text](https://github.com/stephanleyherman/imagedumprepo/blob/main/p01-i1.png)
 
 
-
----
----
-                                                                              
-  
-</details>
-
-<details>
-<summary>Click to see more :</summary>
-
-
-  
-</details>
 
  <p align = "right"> <a href="#hello--space_invaderrobot"> Back to Top </a></p>  
  
