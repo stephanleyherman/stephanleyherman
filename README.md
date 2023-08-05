@@ -67,9 +67,9 @@ I made this game as a part of my thesis, it required me to have people test the 
  
 <table>
   <tr>
-    <td><img src="https://github.com/stephanleyherman/imagedumprepo/blob/main/p01-i7.png"  alt="1" width = 360px height = 360px ></td>
-    <td><img src="https://github.com/stephanleyherman/imagedumprepo/blob/main/p01-i8.png" alt="2" width = 360px height = 360px></td>
-    <td><img src="https://github.com/stephanleyherman/imagedumprepo/blob/main/p01-i9.png" alt="2" width = 360px height = 360px></td>
+    <td><img src="https://github.com/stephanleyherman/imagedumprepo/blob/main/p01-i7.png"  alt="1" width = 360px height = 300px ></td>
+    <td><img src="https://github.com/stephanleyherman/imagedumprepo/blob/main/p01-i8.png" alt="2" width = 360px height = 300px></td>
+    <td><img src="https://github.com/stephanleyherman/imagedumprepo/blob/main/p01-i9.png" alt="2" width = 360px height = 300px></td>
    </tr> 
   
 </table>
@@ -77,7 +77,7 @@ I made this game as a part of my thesis, it required me to have people test the 
    <!-- !Table here-->
    I wanted to make picking up the laptop feels nice, so i added a few keybinds to let you interact with it differently i achieve this by using conditionals, as an example a closed laptop cannot be grabbed so you need to open/close it by pressing F, if you have a laptop on you then you can't pick up another one until you put it down by pressing G for picking up/putting down laptops, you cannot open into the question screen of the laptop if the laptop screen is closed. the idea was to use these keys so the player would be more engaged.
                   
-   The act of grabbing a laptop is also just an illusion, i wanted to save memory by having less GameObject/Actor when the game is running so i Destroy() the laptop that was being picked up, save it's information in the Player and then Instantiate a new one when im interacting with a table.
+   The act of grabbing a laptop is also just an illusion, i wanted to save memory by having less GameObject/Actor when the game is running so i Destroy() the laptop that was being picked up, save it's information in the Player and then Instantiate() a new one when im interacting with a table.
 
 ## 4. {P01} - End of the game Review Manager
  
