@@ -67,9 +67,9 @@ I made this game as a part of my thesis, it required me to have people test the 
  
 <table>
   <tr>
-    <td><img src="https://github.com/stephanleyherman/imagedumprepo/blob/main/p01-i7.png"  alt="1" width = 360px height = 300px ></td>
-    <td><img src="https://github.com/stephanleyherman/imagedumprepo/blob/main/p01-i8.png" alt="2" width = 360px height = 300px></td>
-    <td><img src="https://github.com/stephanleyherman/imagedumprepo/blob/main/p01-i9.png" alt="2" width = 360px height = 300px></td>
+    <td><img src="https://github.com/stephanleyherman/imagedumprepo/blob/main/p01-i7.png"  alt="1" width = 360px height = 240px ></td>
+    <td><img src="https://github.com/stephanleyherman/imagedumprepo/blob/main/p01-i8.png" alt="2" width = 360px height = 240px></td>
+    <td><img src="https://github.com/stephanleyherman/imagedumprepo/blob/main/p01-i9.png" alt="2" width = 360px height = 240px></td>
    </tr> 
   
 </table>
