@@ -175,14 +175,17 @@ I also added some functionality to the project, i added movements, guns, and zom
  
 ---    
                     
-# About Me
-..
+# About Me                  
+I have several other Unity and Unreal projects that i have worked on this Year, these are just the noteable few that i think is enough to show my understanding and my skillset. I've only recently picked up Unreal and been having a blast with the extraordinarily in-depth and powerful system that Unreal has, I currently making something of my own in Unreal as well and this Portofolio will definitely be updated in due time in accordance to my progress.
 
-.
-.
-.
-.
+My Contacts : 
+stephanleyherman99@gmail.com
+https://www.linkedin.com/in/stephanley-herman/
 
+
+
+> [!IMPORTANT]
+> Thank you for taking the time out of your day to read my Portofolio ! 
  <p align = "right"> <a href="#hello--space_invaderrobot"> Back to Top </a></p>  
 
 
