@@ -114,6 +114,7 @@ I also added some functionality to the project, i added movements, guns, and zom
 
 ![alt text](https://github.com/stephanleyherman/imagedumprepo/blob/main/p02-i4.png)      
 
+## More Details             
 <details>
 <summary>Click to see more :</summary>
 <!-- ENVIROMENT PROTOTYPE MORE DETAILS SECTION HERE -->
