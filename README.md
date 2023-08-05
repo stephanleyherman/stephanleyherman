@@ -51,14 +51,20 @@ I made this game as a part of my thesis, it required me to have people test the 
 <details>
 <summary>Click to see more :</summary>
 
-## 1. {P01} - Scriptable Object and Savefile System
+## 1. {P01} - The Foundation of the project
+   
+   <!-- -->
+   I use a Singleton to manage the input and output of questions, the question itself is saved in a scriptable object that you can manually add in the json file or you can add it in game in the Customize page. I also made several other items to make the game more interesting such as different keys that you can use to interact with the laptop like opening, closing and grabbing the laptop. Almost everything is put inside the Player.cs, looking back this is bad practice from my part since Player.cs became so bloated it has about 2000+ lines of code for no reason at all, i've stop doing this in future projects and instead opted out to make separate script files for most things to reduce unnecessary coupling.
+   
+   
+## 2. {P01} - Scriptable Object and Savefile System
    
    <!-- -->
    
    adfgadfgsdfg
    adfgasdfgsdfg
    
-## 2. {P01} - Interactable Laptop
+## 3. {P01} - Interactable Laptop
  
    <!-- -->
    
@@ -66,7 +72,7 @@ I made this game as a part of my thesis, it required me to have people test the 
   sghdsgfhdghs
   srthsfghsfgh
 
-## 3. {P01} - End of the game Review Manager
+## 4. {P01} - End of the game Review Manager
  
    <!-- -->
    
