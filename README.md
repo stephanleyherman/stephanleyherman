@@ -112,7 +112,7 @@ I wanted to test out my level design skill by making a map, where the player wou
 ![alt text](https://github.com/stephanleyherman/imagedumprepo/blob/main/p02-i3.png)      
 I also added some functionality to the project, i added movements, guns, and zombie AIs because maybe someday i wanna return to this and develop it some more because this is one of the most fun project i had made.
 
-![alt text](https://github.com/stephanleyherman/imagedumprepo/blob/main/p02-i3.png)      
+![alt text](https://github.com/stephanleyherman/imagedumprepo/blob/main/p02-i4.png)      
 
 <details>
 <summary>Click to see more :</summary>
