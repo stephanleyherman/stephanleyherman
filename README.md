@@ -23,18 +23,30 @@ Feel free to jump to any of the section i've made :
                       
 ## General Outline               
 This is a Strategy&Time Management game where you solve competitive cyber security CTF questions within a given time limit. you control a character in a small map where you need to interact with key items to achieve your goal.
-<!-- Diner Dash Image Here -->
 <br>
 <br>            
-         
+               
+<!-- Diner Dash Image Here -->
 ![alt text](https://github.com/stephanleyherman/imagedumprepo/blob/main/p01-i2.png)             
-The whole idea of this game was to make something akin with DinerDash where instead of using Food and Tables as a main mechanics i use Laptops and Tables.
+The game that i made took heavy inspiration from DinerDash where instead of using Food and Tables as a main mechanics i use Laptops and Tables.
+               
+<br>
+<br>            
+               
 <!-- Show table, laptop and the conveyor belt-->
 ![alt text](https://github.com/stephanleyherman/imagedumprepo/blob/main/p01-i3.png)
 The conveyor belt will spawn Laptop which you need to put in the "Tables" to be able to operate and see the questions inside, for the purpose of this game i only made 4 categories(Cryptography, WebEx, OSINT, General Knowledge) but i also have put in the function to make custom questions and custom categories as well via a json savefile script.
+               
+<br>
+<br>            
+           
 <!-- Select amount of questions -->
 ![alt text](https://github.com/stephanleyherman/imagedumprepo/blob/main/p01-i4.png)
 The idea is that this game would be used as a gamification concept that connect the more common game mechanics with answering difficult CTF competition questions where they would choose the amount of questions that they're comfortable with and slowly go up doing more and more questions, in a limited amount of time. I also added a Review stage option after the timer runs out, it just contains the Laptops that was wrong or was discarded by the player.
+               
+<br>
+<br>            
+           
 <!-- Tutorial -->
 ![alt text](https://github.com/stephanleyherman/imagedumprepo/blob/main/p01-i5.png)
 I made this game as a part of my thesis, it required me to have people test the game as a part of the user satisfaction section, so i made a tutorial to help them understand how to play the game it is also made with Bahasa language instead of English since most people that test it don't speak english proficiently.
