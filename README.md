@@ -117,10 +117,8 @@ I also added some functionality to the project, i added movements, guns, and zom
 ## More Details             
 <details>
 <summary>Click to see more :</summary>
-<!-- ENVIROMENT PROTOTYPE MORE DETAILS SECTION HERE -->
-                 
+                           
 ## 1. {P02} - The Foundation of the project
-   
    <!--  -->        
    Originally i wanted to make a shooter game that has an Object Pooling implementation, but then the project got sidetracked because i had new ideas and new things that i wanna do so i decided to push the original idea to future projects while i make this in more of a exploratory type game that is more dark and gloomy.
 
