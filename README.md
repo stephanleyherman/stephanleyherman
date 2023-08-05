@@ -116,8 +116,10 @@ I also added some functionality to the project, i added movements, guns, and zom
 
 <details>
 <summary>Click to see more :</summary>
+<!-- ENVIROMENT PROTOTYPE MORE DETAILS SECTION HERE -->
 
-
+  
+<!-- !!ENVIROMENT PROTOTYPE MORE DETAILS SECTION HERE -->
   
 </details>
 
