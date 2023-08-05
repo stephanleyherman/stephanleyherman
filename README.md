@@ -27,7 +27,7 @@ This is a Strategy&Time Management game where you solve competitive cyber securi
 <br>            
                
 <!-- Diner Dash Image Here -->
-![alt text](https://github.com/stephanleyherman/imagedumprepo/blob/main/p01-i2.png)             
+![alt text](https://github.com/stephanleyherman/imagedumprepo/blob/main/p01-i2.png | width=100)             
 The game that i made took heavy inspiration from DinerDash where instead of using Food and Tables as a main mechanics i use Laptops and Tables.
                
 <br>
