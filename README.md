@@ -50,7 +50,7 @@ I made this game as a part of my thesis, it required me to have people test the 
 ## More Details             
 <details>
 <summary>Click to see more :</summary>
-
+                           
 ## 1. {P01} - The Foundation of the project
    
    <!-- -->
