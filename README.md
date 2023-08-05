@@ -30,7 +30,7 @@ The conveyor belt will spawn Laptop which you need to put in the "Tables" to be 
 <!-- Select amount of questions -->
 The idea is that this game would be used as a gamification concept that connect the more common game mechanics with answering difficult CTF competition questions where they would choose the amount of questions that they're comfortable with and slowly go up doing more and more questions, in a limited amount of time. I also added a Review stage option after the timer runs out, it just contains the Laptops that was wrong or was discarded by the player.
 <!-- Tutorial -->
-
+I made this game as a part of my thesis, it required me to have people test my game so i made a tutorial to help them understand how to play the game it is also made with Bahasa language instead of english since most people that test it don't speak english proficiently.
                 
 ## More Details             
 <details>
