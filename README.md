@@ -167,7 +167,7 @@ I also added some functionality to the project, i added movements, guns, and zom
 
   ![alt text](https://github.com/stephanleyherman/imagedumprepo/blob/main/p03-i3.png)   
 
-  This project used the Breadth-first search algorithm to define a path for the enemy minions to walk on, it changes dynamically so if i put a turret in their way the minions would adjust their movement accordingly/smoothly as well. It also has an edge case on dealing with what if there's no path ? and the minions cannot reach our turret, the edge case is a try-catch esque conditional that will run the clicked tile to see if there will still be a path or no and return a boolean that will determine the action taken.
+  This project used the Breadth-first search algorithm to define a path for the enemy minions to walk on, it changes dynamically so if i put a turret in their way the minions would adjust their movement accordingly/smoothly as well. It also has an edge case on dealing with what if there's no path ? and the minions cannot reach our turret, the edge case is a try-catch esque conditional that will check the clicked tile to see if there will still be a path or no and return a boolean that will determine the action taken.
 
 
 
