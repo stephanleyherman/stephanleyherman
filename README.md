@@ -120,15 +120,16 @@ I also added some functionality to the project, i added movements, guns, and zom
                            
 ## 1. {P02} - The Foundation of the project
    <!--  -->        
-   Originally i wanted to make a shooter game that has an Object Pooling implementation, but then the project got sidetracked because i had new ideas and new things that i wanna do so i decided to push the original idea to future projects while i make this in more of a exploratory type game that is more dark and gloomy.
+   Originally i wanted to make a shooter game that has an Object Pooling implementation, but then the project got sidetracked because i had new ideas and new things that i wanna do so i decided to push the original idea to future projects while i make this lean into more of a exploratory type game that is more dark and gloomy.
 
 ## 2. {P02} - Zombie AIs
    
    <!-- SO picture here -->
-   ![alt text](https://github.com/stephanleyherman/imagedumprepo/blob/main/p01-i6.png)           
+   ![alt text](https://github.com/stephanleyherman/imagedumprepo/blob/main/p02-i5.png)           
    I thought to myself at that time that the project needed obstacles, so i made Zombie AIs with adjustable variables that i can tweak in the Editor, the zombies have different idle animations and different skins as well.
-   ![alt text](https://github.com/stephanleyherman/imagedumprepo/blob/main/p01-i6.png)        
+   ![alt text](https://github.com/stephanleyherman/imagedumprepo/blob/main/p02-i6.png)        
    Learning from previous projects i made sure that this one has emphasis on the readibility in the Editor, i made sure that everything was packaged neatly and understandable just from a glance. 
+
 <!-- !!ENVIROMENT PROTOTYPE MORE DETAILS SECTION HERE -->
   
 </details>
