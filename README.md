@@ -8,7 +8,7 @@ Each of the section will also have a General Outline part and the More Details p
 
 Feel free to jump to any of the section I've made :   
 >- [P01 - CTFDash](#p01-ctfdash)
->- [P02 - Environment Prototype](#p02-enviroment-prototype)
+>- [P02 - Environment Prototype](#p02-environment-prototype)
 >- [P03 - Pathfinding Prototype](#p03-pathfinding-prototype)  
 >- [About Me](#about-me)
 
