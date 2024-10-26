@@ -176,7 +176,7 @@ I also added some functionality to the project, I added movements, guns, and zom
 ---    
                     
 # About Me                  
-I have several other Unity and Unreal projects that I have worked on this Year, these are just the noteable few that I think is enough to show my understanding and my skillset. I've only recently picked up Unreal and been having a blast with the extraordinarily in-depth and powerful system that Unreal has, I currently making something of my own in Unreal as well and this Portofolio will definitely be updated in due time in accordance to my progress.
+I make games.
 
 My Contacts : 
 - stephanleyherman99@gmail.com          
